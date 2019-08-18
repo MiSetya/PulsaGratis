@@ -3,13 +3,13 @@
 #Tools Ini Cuman Buat Iseng² doang
 
 echo "\033[0;31m]
-      .---.        .-----------
-     /     \  __  /    ------
-    / /     \(  )/    -----
-   //////   * \/ *   ---
-  //// / // :    : ---
- // /   /  /*    *--
-//          //..\\
+      .---.        .---.
+     /     \  __  /     \
+    / /     \(°°)/     \ \
+   //////   * \/ *   \\\\\\
+  //// / // :    : \\ \ \\\\
+ // /   /  /*    *\  \   \ \\
+//          //..\\          \\ 
 ===========UU====UU==============
 +          *//||\\*             +
 +            ****               +
@@ -30,18 +30,13 @@ echo "\033[0;32m]Jumblah Pulsa : "
 read pulsa
 echo
 echo
-echo
-echo
-echo "Tunggu bentar coeg!!"
-echo
-echo
-echo
-echo
-echo
+echo "Tunggu bentar coeg!! Sekitar 2 menit.."
+echo ""
+sleep 50
 echo "$korban, Sukses Ngirim Pulsa $pulsa"
-echo
-echo
+echo ""
+sleep 4
 echo "Lu tungguin gabakalan masuk tuh pulsa 🤣🤣"
-echo
-echo
+echo ""
+sleep 4
 echo "Mau pulsa kerja bangsat!! Jangan maunya yg gratisan!!"
