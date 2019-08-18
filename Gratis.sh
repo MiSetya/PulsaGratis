@@ -11,7 +11,7 @@ echo "\033[0;31m]
  // /   /  /*    *
 //          //..\\          
 ===========UU====UU==============
-+          *//||\\*             +
++          *//||\\*              +
 +            ****               +
 + coded by : MiSetya.           +
 + Team : Light Cyber Indonesia  +
