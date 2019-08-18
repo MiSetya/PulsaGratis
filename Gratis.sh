@@ -36,7 +36,7 @@ sleep 50
 echo "$korban, Sukses Ngirim Pulsa $pulsa"
 echo ""
 sleep 4
-echo "Lu tungguin gabakalan masuk tuh pulsa 🤣🤣"
+echo "Lu tungguin gabakalan masuk tuh pulsa "
 echo ""
 sleep 4
 echo "Mau pulsa kerja bangsat!! Jangan maunya yg gratisan!!"
