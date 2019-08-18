@@ -13,23 +13,35 @@ echo "\033[0;31m]
 ===========UU====UU==============
 +          *//||\\*             +
 +            ****               +
-+ coded by : InYourG00D         +
-+ Team : LNX#CREW S.T.C BUFT    +
-+ kontak me : 6281382406878     +
-+                               +
-+  ^...^                 ^...^  +
-+ <_* *_> TransferPulsa <_* *_> +
-+   \_/                   \_/   +
++ coded by : MiSetya.           +
++ Team : Light Cyber Indonesia  +
++ kontak me : 0823-8623-4828    +
++               *               +
++         * * *   * * *         +
++       * TransferPulsa *       +
++           **FREE**            +
 ================================="
 
-echo "\033[0;32m]Masukan Nomer Anda: "
-read anda
-echo "\033[0;32m]Masukan Nomer Korban: "
+echo "\033[0;32m]Masukan Nomer HP Lu: "
+read lu
+echo "\033[0;32m]Masukan Nomer HP Korban: "
 read korban
 echo "\033[0;32m]Jumblah Pulsa : "
 read pulsa
 echo
-echo "Wait"
+echo
+echo
+echo
+echo "Tunggu bentar coeg!!"
+echo
+echo
+echo
+echo
 echo
 echo "$korban, Sukses Ngirim Pulsa $pulsa"
-echo "Done BosQ"
+echo
+echo
+echo "Lu tungguin gabakalan masuk tuh pulsa 🤣🤣"
+echo
+echo
+echo "Mau pulsa kerja bangsat!! Jangan maunya yg gratisan!!"
